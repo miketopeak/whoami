@@ -73,7 +73,7 @@ body {
 .arrowpath,
 polyline {
   fill: none;
-  stroke: #B64D80;
+  stroke: #1e90ff;
   stroke-width: 2;
 }
 
@@ -96,7 +96,7 @@ polyline {
   border-collapse: separate;
   background-size: cover;
   background-position: center;
-  outline: 1px #B64D80;
+  outline: 1px #1e90ff;
 }
 
 @keyframes morph {
@@ -157,15 +157,15 @@ polyline {
   .drop-shadow-div {
     -webkit-appearance: none;
     appearance: none;
-    -webkit-filter: drop-shadow(0 0 1.5rem #eec5d9);
-    filter: drop-shadow(0 0 1.5rem #eec5d9);
+    -webkit-filter: drop-shadow(0 0 1.5rem #00f7ff);
+    filter: drop-shadow(0 0 1.5rem #00f7ff);
   }
 }
 
 .loader {
   width: 100px;
   height: 100px;
-  border: 5px solid #B64D80;
+  border: 5px solid #1e90ff;
   border-radius: 50%;
   display: inline-block;
   position: relative;
@@ -181,7 +181,7 @@ polyline {
   height: 80px;
   border-radius: 50%;
   border: 5px solid;
-  border-color: #B64D80 transparent;
+  border-color: #1e90ff transparent;
 }
 
 @keyframes rotation {

@@ -141,16 +141,16 @@ const ProjectCard = ({
                   </div>
               </div>
 
-              <div className="mt-3">
-                  <h3 className="text-white font-bold text-2xl">{name}</h3>
-                  <p className="mt-2 text-secondary text-[14px] leading-snug">
+              <div className="mt-3" style={{color: 'white'}}>
+                  <h3 className="font-bold text-2xl">{name}</h3>
+                  <p className="mt-2 text-[14px] leading-snug">
                       {description}
                   </p>
               </div>
               <div className="mt-2 flex flex-wrap gap-1"></div>
-              <div className="mt-3 flex justify-center items-center">
+              <div className="mt-3 flex justify-center items-center" style={{color: 'white'}}>
                   <a
-                      className="shadow-md shadow-primary p-2 bg-tertiary rounded-lg flex justify-center"
+                      className="shadow-md shadow-primary p-2 rounded-lg flex justify-center"
                       href={demo_link}
                       target="_blank"
                   >

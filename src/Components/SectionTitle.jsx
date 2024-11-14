@@ -26,6 +26,7 @@ const SectionTitle = (props) => {
             textTransform: "uppercase",
             fontFamily: "Poppins, sans-serif",
             fontWeight: "600",
+            color: "dodgerblue"
           }}
         >
           {subtitle}

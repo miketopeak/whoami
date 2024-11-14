@@ -8,7 +8,7 @@
 */
 
 // Logo
-import bl33hIcon from './logo/icon.png';
+import mikeIcon from './logo/icon.png';
 
 // Technologies
 import htmlIcon from './tech/html.png';
@@ -59,5 +59,5 @@ export {
   pawsitivePrototype,
   memoryGame,
   avatar,
-  bl33hIcon,
+  mikeIcon,
 };

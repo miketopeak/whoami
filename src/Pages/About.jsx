@@ -35,15 +35,16 @@ const About = () => {
                 style={{ fontFamily: "Poppins, sans-serif" }}
                 className="text-grayscale-50 p-6 text-center flex flex-col gap-5"
               >
-                <span className="text-primary-400" style={{ fontSize: '1.2em', fontWeight: '900' }}>{introduction.text[0]}</span>
-                <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[1]}</span>
-                <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[2]}</span>
-                <span className="text-primary-500" style={{ fontSize: '0.95em', fontWeight: '500'}}>{introduction.text[3]}</span>
+                <span className="text-primary-400" style={{ fontSize: '1.2em', fontWeight: '900', color: 'dodgerblue' }}>{introduction.text[0]}</span>
+                <span className="text-primary-500" style={{ fontSize: '1em', fontWeight: '500', color: 'white'}}>{introduction.text[1]}</span>
+                <span className="text-primary-500" style={{ fontSize: '1em', fontWeight: '500', color: 'white'}}>{introduction.text[2]}</span>
+                <span className="text-primary-500" style={{ fontSize: '1em', fontWeight: '500', color: 'white'}}>{introduction.text[3]}</span>
+                <span className="text-primary-500" style={{ fontSize: '1em', fontWeight: '500', color: 'white'}}>{introduction.text[4]}</span>
                 <a href="cv/SaraEcheverriasCV2024.pdf" download>
-                  <span className="text-primary-600" style={{ fontSize: '0.95em', fontWeight: '700'}}>
-                    {introduction.text[4].split('here')[0]}
+                  <span className="text-primary-600" style={{ fontSize: '1em', fontWeight: '700', color: 'white'}}>
+                    {introduction.text[5].split('here')[0]}
                     <span style={{ textDecoration: 'underline' }}>here</span>
-                    {introduction.text[4].split('here')[1]}
+                    {introduction.text[5].split('here')[1]}
                   </span>
                 </a>
               </m.p>
