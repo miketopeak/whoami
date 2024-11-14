@@ -36,9 +36,9 @@ const Contact = () => {
           </LazyMotion>
         </div>
       </div>
-      <div className="w-full flex flex-col">
+      <div className="w-full flex flex-col bg-grayscale-950">
         <SocialLinks />
-        <div className="bg-grayscale-950 flex justify-center pb-4 text-primary-200">
+        <div className=" flex justify-center pb-4 text-primary-200">
           <span>
             Made by <em>Mikael Laine (miketopeak)</em>
           </span>

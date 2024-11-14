@@ -18,15 +18,15 @@ const Skills = () => {
         <div className="w-full">
           <SectionTitle title="SKILLS" subtitle="WHAT I DO" />
         </div>
-        <div className="xl:border-l-2 xl:border-r-2 xl:border-primary-400 h-full">
+        <div className="xl:border-l-2 xl:border-r-2 xl:border-primary-200 h-full">
           <div className="relative">
-            <div className="absolute top-[45px] w-full h-[1px] bg-primary-400"></div>
+            <div className="absolute top-[45px] w-full h-[1px] bg-primary-200"></div>
             <MarqueeCards direction="left">
               <SkillsCards />
             </MarqueeCards>
           </div>
           <div className="relative">
-            <div className="absolute top-[45px] w-full h-[1px] bg-primary-400"></div>
+            <div className="absolute top-[45px] w-full h-[1px] bg-primary-200"></div>
             <MarqueeCards direction="right">
               <SkillsCards />
             </MarqueeCards>
