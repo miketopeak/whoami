@@ -40,7 +40,7 @@ const About = () => {
                 <span className="text-primary-500" style={{ fontSize: '1em', fontWeight: '500', color: 'white'}}>{introduction.text[2]}</span>
                 <span className="text-primary-500" style={{ fontSize: '1em', fontWeight: '500', color: 'white'}}>{introduction.text[3]}</span>
                 <span className="text-primary-500" style={{ fontSize: '1em', fontWeight: '500', color: 'white'}}>{introduction.text[4]}</span>
-                <a href="cv/SaraEcheverriasCV2024.pdf" download>
+                <a href="https://flowcv.com/resume/uwosw5gqah" download>
                   <span className="text-primary-600" style={{ fontSize: '1em', fontWeight: '700', color: 'white'}}>
                     {introduction.text[5].split('here')[0]}
                     <span style={{ textDecoration: 'underline' }}>here</span>
