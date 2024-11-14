@@ -1,5 +1,5 @@
 /*
-   Copyright (C), 2023-2024, Sara Echeverria (bl33h)
+   Copyright (C), 2023-2024, Sara Echeverria (mikael)
    Author: Sara Echeverria
    FileName: HeroScroller.jsx
    Version: I
@@ -14,9 +14,10 @@ const HeroScroller = () => {
     <div
       id="scroller"
       className="absolute xs:bottom-10 bottom-12 flex justify-center items-center"
+      style={{color: 'dodgerblue'}}
     >
       <a href="#about">
-        <div className="w-[35-px] h-[64px] rounded-3xl border-4 border-primary-400 flex justify-center items-start p-2">
+        <div className="w-[35-px] h-[64px] rounded-3xl border-4 flex justify-center items-start p-2">
           <m.div
             animate={{
               y: [0, 24, 0],
@@ -27,6 +28,7 @@ const HeroScroller = () => {
               repeatType: "loop",
             }}
             className="w-3 h-3 rounded-full bg-primary-400 mb-1"
+            style={{backgroundColor: 'dodgerblue'}}
           />
         </div>
       </a>

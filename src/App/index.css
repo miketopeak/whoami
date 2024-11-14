@@ -1,5 +1,5 @@
 /*
-   Copyright (C), 2023-2024, Sara Echeverria (bl33h)
+   Copyright (C), 2023-2024, Sara Echeverria (mikael)
    Author: Sara Echeverria
    FileName: index.css
    Version: I
@@ -13,8 +13,8 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "SuperMario";
-  src: url(/Fonts/Mario/Brugty.ttf);
+  font-family: "Feogra-Demo";
+  src: url(/Fonts/Feogra/Feogra.ttf);
 }
 
 * {
@@ -27,7 +27,7 @@
 
 body {
   background: url("https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/631a5d4631d4c55a475f3e34_noise-50.png");
-  background-color: #E4E2DD;
+  background-color: #000;
   position: relative;
   overflow-x: hidden;
   -webkit-overflow-x: hidden;
@@ -52,13 +52,13 @@ body {
 #repulse-div {
   -webkit-appearance: none;
   appearance: none;
-  -webkit-filter: drop-shadow(0 0 5rem #eec5d9);
-  filter: drop-shadow(0 0 5rem #B64D80);
+  -webkit-filter: drop-shadow(0 0 5rem #292D44);
+  filter: drop-shadow(0 0 5rem #292D44);
 }
 
 #repulse-div > h1 {
-  -webkit-filter: drop-shadow(0 0 5rem #eec5d9);
-  filter: drop-shadow(0 0 5rem #eec5d9);
+  -webkit-filter: drop-shadow(0 0 5rem #292D44);
+  filter: drop-shadow(0 0 5rem #292D44);
 }
 
 #journey-scroll::-webkit-scrollbar {
@@ -119,13 +119,14 @@ polyline {
 }
 
 .bounce {
+  color: #1e90ff;
   transition: all 0.3s ease-out;
 }
 
 .bounce:hover {
   display: inline-block;
   animation: rubberband 0.8s ease-out;
-  color: #763B57;
+  color: #fff;
 }
 
 @keyframes rubberband {

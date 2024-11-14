@@ -1,5 +1,5 @@
 /*
-   Copyright (C), 2023-2024, Sara Echeverria (bl33h)
+   Copyright (C), 2023-2024, Sara Echeverria (mikael)
    Author: Sara Echeverria
    FileName: particleOptions.js
    Version: I
@@ -96,7 +96,7 @@ export const heroOptions = {
         duration: 0.4,
         size: 40,
         color: {
-          value: '#E1A2C1',
+          value: '#1e90ff',
         },
         opacity: 8,
         mix: false,
@@ -117,7 +117,7 @@ export const heroOptions = {
       mode: 'bounce',
     },
     color: {
-      value: '#E1A2C1',
+      value: '#1e90ff',
     },
     move: {
       angle: {

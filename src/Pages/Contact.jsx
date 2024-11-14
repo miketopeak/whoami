@@ -1,5 +1,5 @@
 /*
-   Copyright (C), 2023-2024, Sara Echeverria (bl33h)
+   Copyright (C), 2023-2024, Sara Echeverria (mikael)
    Author: Sara Echeverria
    FileName: Contact.jsx
    Version: I
@@ -40,7 +40,7 @@ const Contact = () => {
         <SocialLinks />
         <div className="bg-grayscale-950 flex justify-center pb-4 text-primary-200">
           <span>
-            Made by <em>Sara Echeverría (bl33h)</em>
+            Made by <em>Mikael Laine (miketopeak)</em>
           </span>
         </div>
       </div>

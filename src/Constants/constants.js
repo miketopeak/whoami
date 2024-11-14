@@ -1,5 +1,5 @@
 /*
-   Copyright (C), 2023-2024, Sara Echeverria (bl33h)
+   Copyright (C), 2023-2024, Sara Echeverria (mikael)
    Author: Sara Echeverria
    FileName: constants.js
    Version: I

@@ -1,4 +1,4 @@
-/* Copyright (C), 2023-2024, Sara Echeverria (bl33h)
+/* Copyright (C), 2023-2024, Sara Echeverria (mikael)
      @author Sara Echeverria
      FileName: styles.js
      @version: I

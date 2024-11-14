@@ -1,5 +1,5 @@
 /*
-   Copyright (C), 2023-2024, Sara Echeverria (bl33h)
+   Copyright (C), 2023-2024, Sara Echeverria (mikael)
    Author: Sara Echeverria
    FileName: NavBar.jsx
    Version: I
@@ -37,7 +37,7 @@ const Navbar = () => {
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
           </p>
         </Link>
-        <ul className="list-none hidden sm:flex flex-row gap-10"  style={{ color: '#b3286c' }}>
+        <ul className="list-none hidden sm:flex flex-row gap-10"  style={{ color: '#fff' }}>
           {navLinks.map((link) => {
             return (
               <li
