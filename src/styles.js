@@ -1,5 +1,5 @@
-/* Copyright (C), 2023-2024, Sara Echeverria (mikael)
-     @author Sara Echeverria
+/* Copyright (C), 2023-2024, Mikael Laine (mikael)
+     @author Mikael Laine
      FileName: styles.js
      @version: I
      Creation: 02/06/2023

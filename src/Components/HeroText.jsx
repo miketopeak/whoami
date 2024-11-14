@@ -1,6 +1,6 @@
 /*
-   Copyright (C), 2023-2024, Sara Echeverria (mikael)
-   Author: Sara Echeverria
+   Copyright (C), 2023-2024, Mikael Laine (mikael)
+   Author: Mikael Laine
    FileName: HeroText.jsx
    Version: I
    Creation: 02/06/2023
