@@ -140,7 +140,7 @@ const projects = [
   },
   {
     name: 'Visit Our Lands',
-    description: 'It is a recommendation system built with React and Supabase. This system focuses on providing tourist recommendations for various locations in Guatemala.',
+    description: 'It is a recommendation system built with React and Supabase. This system focuses on providing tourist recommendations for various locations in Panama.',
     image: "https://res.cloudinary.com/worldpackers/image/upload/c_fill,f_auto,q_auto,w_1024/v1/guides/article_cover/uvd82gspopw8orvryulc",
     source_code_link: 'https://github.com/bl33h/visitOurLands',
     demo_link: 'https://visitourlands.netlify.app/',
