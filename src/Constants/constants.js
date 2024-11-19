@@ -41,6 +41,7 @@ import {
   figmaIcon,
   pawsitivePrototype,
   memoryGame,
+  foremen,
   avatar,
 } from '../assets';
 
@@ -146,11 +147,11 @@ const projects = [
     demo_link: 'https://visitourlands.netlify.app/',
   },
   {
-    name: 'Exploring The Space',
-    description: 'The program uses OpenGL and C++ to render celestial bodies with dynamic realism. It includes a shader-based pipeline and a camera that follows a spaceship for added interactivity.',
-    image: "https://camo.githubusercontent.com/1f7fb7873058b029992d30b8601d2c36582f6bb399482c560d5560c2d02fc37e/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d4773314e6d733459336c6a4e4752684e3270354f574a33625456304f484675616d77314d574a314e6d31344d4849786254567963535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f76553246666b6d386e6744494e336d6d36572f67697068792e676966",
+    name: 'Foremen Fiefdom',
+    description: '--- At Foremen Fiefdom, they provide smartest of the investment chances in the real estate market and offer products promising highest returns. --- Stack: Nuxt.js, Bootstrap, Laravel',
+    image: foremen,
     source_code_link: 'https://github.com/bl33h/exploringTheSpace',
-    demo_link: 'https://camo.githubusercontent.com/1f7fb7873058b029992d30b8601d2c36582f6bb399482c560d5560c2d02fc37e/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d4773314e6d733459336c6a4e4752684e3270354f574a33625456304f484675616d77314d574a314e6d31344d4849786254567963535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f76553246666b6d386e6744494e336d6d36572f67697068792e676966',
+    demo_link: 'https://www.foremenfiefdom.com/',
   },
   {
     name: 'Disney Plus Replica',

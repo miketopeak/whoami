@@ -33,6 +33,7 @@ import menu from './menu.svg';
 // Projects
 import pawsitivePrototype from './projects/pawsitive.jpeg';
 import memoryGame from './projects/memory.jpg';
+import foremen from './projects/foremen.jpg';
 
 // Avatar
 import avatar from './avatar/avatar.png';
@@ -58,6 +59,7 @@ export {
   raspIcon,
   pawsitivePrototype,
   memoryGame,
+  foremen,
   avatar,
   mikeIcon,
 };
