@@ -42,6 +42,7 @@ import {
   pawsitivePrototype,
   memoryGame,
   foremen,
+  calculator,
   avatar,
 } from '../assets';
 
@@ -154,9 +155,9 @@ const projects = [
     demo_link: 'https://www.foremenfiefdom.com/',
   },
   {
-    name: 'Disney Plus Replica',
-    description: 'A replica of the Disney+ principal page built using React and Vite. The Vitest and Storybook technologies were also implemented for testing.',
-    image: "https://camo.githubusercontent.com/5d85ae990f2b7b9a0f4d6246168b7995fc930d59d127a15c3c4ea18eb2a5001b/68747470733a2f2f6c756d696572652d612e616b616d616968642e6e65742f76312f696d616765732f65735f686f7573652d6f662d6469736e65792d706c75735f6d6f625f6d5f35376437663836652e6a7065673f726567696f6e3d302c302c3830302c3630302677696474683d373638",
+    name: 'Basic Calculator',
+    description: '--- A completely functional basic calculator website created with React. It allows you to perform mathematical calculations effortlessly. --- Stack: React.js',
+    image: calculator,
     source_code_link: 'https://github.com/bl33h/disneyPlusReplica',
     demo_link: 'https://disneyplusreplica.netlify.app',
   },

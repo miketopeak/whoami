@@ -34,6 +34,7 @@ import menu from './menu.svg';
 import pawsitivePrototype from './projects/pawsitive.jpeg';
 import memoryGame from './projects/memory.jpg';
 import foremen from './projects/foremen.jpg';
+import calculator from './projects/calculator.jpg'
 
 // Avatar
 import avatar from './avatar/avatar.png';
@@ -60,6 +61,7 @@ export {
   pawsitivePrototype,
   memoryGame,
   foremen,
+  calculator,
   avatar,
   mikeIcon,
 };
