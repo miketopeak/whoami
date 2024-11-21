@@ -43,6 +43,7 @@ import {
   memoryGame,
   foremen,
   calculator,
+  skyspa,
   avatar,
 } from '../assets';
 
@@ -159,14 +160,14 @@ const projects = [
     description: '--- A completely functional basic calculator website created with React. It allows you to perform mathematical calculations effortlessly. --- Stack: React.js',
     image: calculator,
     source_code_link: 'https://github.com/bl33h/disneyPlusReplica',
-    demo_link: 'https://disneyplusreplica.netlify.app',
+    demo_link: 'https://kimoto-calculator.netlify.app/',
   },
   {
-    name: 'Deep Dive Odyssey Raycasting',
-    description: 'The code represents a raycasting graphics application with a Finding Pirate Treasure Under the Sea theme. It creates a 3D perspective effect by simulating rays of light and their interactions with a map.',
-    image: "https://camo.githubusercontent.com/94f800b79d759c06717af7d816a16ccff75a0101c942ca9ad3c562d0dd2c9404/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f4870736432527a5a575a6a616e4e366547513364473172616e64755a576b306457357262336f79596d527964584636646a413264535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f634b4c57543837305a4a39587769706e57772f67697068792e676966",
+    name: '7 Sky Spa',
+    description: '--- You can expect the most modern treatment devices, internationally recognized French cosmetic products and a dynamic and competent team. --- Stack: HTML, CSS, JavaScript, PHP',
+    image: skyspa,
     source_code_link: 'https://github.com/bl33h/deepDiveOdysseyRaycasting',
-    demo_link: 'https://camo.githubusercontent.com/94f800b79d759c06717af7d816a16ccff75a0101c942ca9ad3c562d0dd2c9404/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f4870736432527a5a575a6a616e4e366547513364473172616e64755a576b306457357262336f79596d527964584636646a413264535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f634b4c57543837305a4a39587769706e57772f67697068792e676966',
+    demo_link: 'https://7skyspa.co.uk/',
   },
   {
     name: 'Fibonacci & Factorial',
