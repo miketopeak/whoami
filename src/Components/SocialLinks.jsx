@@ -19,13 +19,13 @@ const SocialLinks = () => {
           icon={icons.faGithub}
         />
       </a>
-      <a href="mailto:sarap.echeverria@gmail.com" target="_blank">
+      <a href="mailto:mikejobapplicant97@gmail.com" target="_blank">
         <FontAwesomeIcon
           className="text-3xl text-grayscale-25 hover:text-primary-200 hover:scale-[1.1] transition-all duration-75"
           icon={icons.faEnvelope}
         />
       </a>
-      <a href="https://www.linkedin.com/in/saraech" target="_blank">
+      <a href="skype:live:.cid.86ead54430eda4fc?chat" target="_blank">
         <FontAwesomeIcon
           className="text-3xl text-grayscale-25 hover:text-primary-200 hover:scale-[1.1] transition-all duration-75"
           icon={icons.faLinkedin}

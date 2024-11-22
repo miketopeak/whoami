@@ -38,7 +38,7 @@ import calculator from './projects/calculator.jpg';
 import skyspa from './projects/skyspa.jpg'
 
 // Avatar
-import avatar from './avatar/avatar.png';
+import avatar from './avatar/avatar.jpg';
 
 export {
   menu,
