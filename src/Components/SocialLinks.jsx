@@ -28,7 +28,7 @@ const SocialLinks = () => {
       <a href="skype:live:.cid.86ead54430eda4fc?chat" target="_blank">
         <FontAwesomeIcon
           className="text-3xl text-grayscale-25 hover:text-primary-200 hover:scale-[1.1] transition-all duration-75"
-          icon={icons.faLinkedin}
+          icon={icons.faSkype}
         />
       </a>
     </div>

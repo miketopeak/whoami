@@ -19,7 +19,7 @@ import {
 import {
   faReact,
   faGithub,
-  faLinkedin,
+  faSkype,
 } from '@fortawesome/free-brands-svg-icons';
 
 import {
@@ -77,7 +77,7 @@ const icons = {
   faDiceD6,
   faReact,
   faGithub,
-  faLinkedin,
+  faSkype,
   faEnvelope,
 };
 
