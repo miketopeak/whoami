@@ -31,7 +31,6 @@ import close from './close.svg';
 import menu from './menu.svg';
 
 // Projects
-import pawsitivePrototype from './projects/pawsitive.jpeg';
 import memoryGame from './projects/memory.jpg';
 import sybaris from './projects/sybaris.jpg'
 import foremen from './projects/foremen.jpg';
@@ -60,7 +59,6 @@ export {
   viteIcon,
   neoIcon,
   raspIcon,
-  pawsitivePrototype,
   memoryGame,
   foremen,
   calculator,

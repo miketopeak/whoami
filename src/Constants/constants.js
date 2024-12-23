@@ -39,7 +39,6 @@ import {
   raspIcon,
   neoIcon,
   figmaIcon,
-  pawsitivePrototype,
   memoryGame,
   foremen,
   calculator,
