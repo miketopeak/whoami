@@ -44,6 +44,7 @@ import {
   foremen,
   calculator,
   skyspa,
+  sybaris,
   avatar,
 } from '../assets';
 
@@ -114,8 +115,8 @@ export const navLinks = [
 
 const projects = [
   {
-    name: "Sybaris Pull Suites",
-    description: '--- The Best Romantic Getaway in the United States. A romantic paradise to ignite feelings, rekindle the romance and enjoy quality time together. --- Stack: WordPress, Elementor',
+    name: "Arasartara's Gallery",
+    description: 'A memory game with an art theme implemented with React. Test your memory skills and enjoy beautiful artwork as you match pairs of cards in this engaging game.',
     image: memoryGame,
     source_code_link: 'https://github.com/bl33h/artMemoryGame',
     demo_link: 'https://arasarmemory.netlify.app/',
@@ -128,11 +129,11 @@ const projects = [
     demo_link: 'https://youtu.be/CBceC2BXJyE',
   },
   {
-    name: 'Pawsitive',
-    description: 'Explore a user-friendly Figma prototype for an adoption and sterilization awareness website. Experience the sleek design and contribute to a noble cause.',
-    image: pawsitivePrototype,
+    name: 'Sybaris Pull Suites',
+    description: '--- The Best Romantic Getaway in the United States. A romantic paradise to ignite feelings, rekindle the romance and enjoy quality time together. --- Stack: WordPress, Elementor',
+    image: sybaris,
     source_code_link: 'https://github.com/bl33h/pawsitive',
-    demo_link: 'https://www.figma.com/proto/zhK8DMa7uPyQIcHxkemIcx/Pawsitive?type=design&node-id=40-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=40%3A2',
+    demo_link: 'https://www.sybaris.com/',
   },
   {
     name: 'Client-Server Chat',
@@ -168,13 +169,6 @@ const projects = [
     image: skyspa,
     source_code_link: 'https://github.com/bl33h/deepDiveOdysseyRaycasting',
     demo_link: 'https://7skyspa.co.uk/',
-  },
-  {
-    name: 'Fibonacci & Factorial',
-    description: 'A project that includes two LISP programs: one for factorials and the other for Fibonacci sequences. They use recursion, prompt user input, and display results efficiently.',
-    image: "https://i.pinimg.com/originals/96/c3/9a/96c39a5cb89092760fe11f355a32f4a4.gif",
-    source_code_link: 'https://github.com/bl33h/fibonacciAndFactorial',
-    demo_link: 'https://camo.githubusercontent.com/59b3c9969f369559fbeb1ed6a53f159e0e83b1151b82552b5b2165c4e9686e89/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31612f4669626f6e616363695f63616c6c5f747265655f352e676966',
   }
 ];
 

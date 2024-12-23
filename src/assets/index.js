@@ -33,6 +33,7 @@ import menu from './menu.svg';
 // Projects
 import pawsitivePrototype from './projects/pawsitive.jpeg';
 import memoryGame from './projects/memory.jpg';
+import sybaris from './projects/sybaris.jpg'
 import foremen from './projects/foremen.jpg';
 import calculator from './projects/calculator.jpg';
 import skyspa from './projects/skyspa.jpg'
@@ -64,6 +65,7 @@ export {
   foremen,
   calculator,
   skyspa,
+  sybaris,
   avatar,
   mikeIcon,
 };
