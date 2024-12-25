@@ -127,7 +127,7 @@ const ProjectCard = ({
                       alt={name}
                       className="w-full h-full md:h-[200px] object-cover rounded-lg relative"
                   />
-                  <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
+                  {/* <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
                       <div
                           onClick={() => window.open(source_code_link, "_blank")}
                           className="w-8 h-8 rounded-full flex justify-center items-center cursor-pointer"
@@ -138,7 +138,7 @@ const ProjectCard = ({
                               className="w-full h-full object-contain"
                           />
                       </div>
-                  </div>
+                  </div> */}
               </div>
 
               <div className="mt-3" style={{color: 'white'}}>
